@@ -5,7 +5,7 @@
 </script>
 
 <section
-  class="mx-auto w-full max-w-4xl rounded-3xl border border-pink-200 bg-linear-to-br from-pink-50 via-yellow-50 to-sky-50 p-6 shadow-[0_20px_60px_rgba(244,114,182,0.18)] ring-1 ring-white/70 sm:p-8"
+  class="mx-auto mt-5 w-full max-w-4xl rounded-3xl border border-pink-200 bg-linear-to-br from-pink-50 via-yellow-50 to-sky-50 p-6 shadow-[0_20px_60px_rgba(244,114,182,0.18)] ring-1 ring-white/70 sm:p-8"
 >
   <div class="mb-5 flex items-center justify-between gap-3">
     <div class="flex items-center gap-3">
