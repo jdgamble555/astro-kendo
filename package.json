@@ -12,6 +12,36 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^7.0.6"
+    "@astrojs/svelte": "^9.0.1",
+    "@astrojs/vue": "^7.0.1",
+    "@progress/kendo-data-query": "^1.7.4",
+    "@progress/kendo-drawing": "^1.25.3",
+    "@progress/kendo-licensing": "^1.11.2",
+    "@progress/kendo-svg-icons": "^5.1.0",
+    "@progress/kendo-theme-default": "^14.3.0",
+    "@progress/kendo-vue-animation": "^9.0.0",
+    "@progress/kendo-vue-buttons": "^9.0.0",
+    "@progress/kendo-vue-charts": "^9.0.0",
+    "@progress/kendo-vue-data-tools": "^9.0.0",
+    "@progress/kendo-vue-dateinputs": "^9.0.0",
+    "@progress/kendo-vue-dropdowns": "^9.0.0",
+    "@progress/kendo-vue-excel-export": "^9.0.0",
+    "@progress/kendo-vue-inputs": "^9.0.0",
+    "@progress/kendo-vue-intl": "^9.0.0",
+    "@progress/kendo-vue-pdf": "^9.0.0",
+    "@progress/kendo-vue-popup": "^9.0.0",
+    "@progress/kendo-vue-treeview": "^9.0.0",
+    "@tailwindcss/vite": "^4.3.2",
+    "astro": "^7.0.6",
+    "cldr-core": "^48.2.0",
+    "cldr-dates-full": "^48.2.0",
+    "cldr-numbers-full": "^48.2.0",
+    "svelte": "^5.56.4",
+    "tailwindcss": "^4.3.2",
+    "typescript": "^6.0.3",
+    "vue": "^3.5.39"
+  },
+  "devDependencies": {
+    "@progress/kendo-vue-grid": "^9.0.0"
   }
 }
